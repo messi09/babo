@@ -4,4 +4,8 @@ public class 저쩌고{
 	public void 저쩌고(){
 		
 	}
+	
+	public int plus1(int inp){
+		return inp+1;
+	}
 }
