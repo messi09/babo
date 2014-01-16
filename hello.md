@@ -8,7 +8,6 @@ Github ID : jsseo
 
 E-mail : seo.js@wemakeprice.com
 
-
 자기소개
 ------------------------------
 이름 : 황형훈
@@ -18,3 +17,4 @@ E-mail : seo.js@wemakeprice.com
 Github ID : messi09
 
 E-mail : messi09@wemakeprice.com
+
